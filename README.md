@@ -9,3 +9,4 @@ I'm currently serving as **CTO** at [**Sherpo**](https://sherpo.io), an :robot: 
 - :speech_balloon: [Sherpo's RAG-as-a-Product](https://dash.sherpo.io)<sup>_⍺lpha_</sup>, bringing your knowledge to your audience in a few clicks
 - :cloud: [Cloudflare Durable Objects](https://developers.cloudflare.com/durable-objects) + [Hono](https://hono.dev)
 - :bird: [Swift Evolution](https://www.swift.org/swift-evolution), always a banger
+- :man_technologist: [Zed](https://zed.dev), [Ghostty](https://ghostty.org)
